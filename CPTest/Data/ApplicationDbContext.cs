@@ -18,7 +18,7 @@ namespace CPTest.Data
         {
 
         }
-        //public DbSet<> DBsets { get; set; }
+        //public DbSet<> DBOjects { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
